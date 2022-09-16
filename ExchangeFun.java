@@ -4,6 +4,7 @@ public class ExchangeFun{
     int temp = x;
     x = w;
     w = temp;
+    System.out.println (x + " and " + w);
   }
 
 }
